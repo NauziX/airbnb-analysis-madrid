@@ -6,10 +6,6 @@ Este repositorio contiene una práctica en R diseñada para analizar datos de Ai
 
 El objetivo principal es estimar los metros cuadrados de los apartamentos utilizando información disponible y analizar patrones de distribución entre barrios.
 
-## 🔍 Dataset
-
-El dataset utilizado esta en repositorio, nombre de archivo: airbnb-listings.csv
-
 ## 🛠️ Funcionalidades
 
 1. **Limpieza de datos**:
